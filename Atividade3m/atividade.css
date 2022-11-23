@@ -8,11 +8,19 @@
     <link rel="stylesheet" href="atividade.css">
 </head>
 <body>
+    <nav>
+        <ul>
+         <li><a href="g.html">---</a></li>
+         <li><a href="mais.html">MAIS DE</a></li>
+         <li><a href="saiba.html">SAIBA SOBRE</a></li>
+        </ul>
+    </nav>
+    
     <div class="wrapper">
 
         <div>
 
-            <img id="anel" src="anel.jpg" alt="Anel" width="327" height="420">
+            <img id="anel" src="ANEL.jpg" alt="Anel" width="327" height="420">
 
         </div>
 
@@ -20,10 +28,15 @@
         <div class="produtotexto">
 
         <h1>Anel de brinquedo</h1>
-        <h2>brinquedo</h2>
+        <h2>aoao
+            sdfjsdif
+            sdfsdfsdfosjdf
+            dfsfsdf
+        </h2>
         <p> [TESTE] </p>
 
 </div>
 </div>
+<p class="copyright">&copy; ;3</p>
 </body>
 </html>
