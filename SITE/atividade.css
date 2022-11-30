@@ -1,0 +1,10 @@
+body {
+    background-image: url('AZUR.gif');
+}
+
+div {
+    height: 420px;
+  width: 654px;
+  margin: auto;
+  float: right;
+}
